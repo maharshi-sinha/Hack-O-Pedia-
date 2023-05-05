@@ -1,0 +1,115 @@
+
+  .heading{
+    font-size: 50px;
+    font-family: 'Roboto';
+    text-align: center;
+    margin-top: 5px;
+    color: #faf7f7;
+    }
+
+    /* .planheadtext{
+        font-size: 50px;
+        font-family: "sans-serif";
+        color: #faf7f7;
+        text-align: center;
+        margin-top: 25px;
+    } */
+    
+
+
+    .abc{
+        margin-top: 25px;
+        display: flex;
+        text-align: center;
+        margin-left: 250px;
+        margin-right: 250px;
+        font-size: 75px;
+      }
+      h1 {
+        color: hsl(10, 10%, 28%);
+        font-size: 80px;
+        font-weight: bold;
+        font-family: monospace;
+        letter-spacing: 7px;
+        cursor: pointer;
+      }
+      
+      h1 span {
+        transition: 0.5s ease-out;
+      }
+      h1:hover span:nth-child(1) {
+        margin-right: 5px;
+      }
+      h1:hover span:nth-child(1):after {
+        content: "'";
+      }
+      h1:hover span:nth-child(2) {
+        margin-left: 30px;
+      }
+      h1:hover span {
+        color: #fff;
+        text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #fff;
+      }
+
+    .background{
+        background-image: url("assets/background.jpg");
+        margin-top: 0px;
+        padding: 15px;
+    }
+
+    .background1{
+      background-image: url("assets/background1.jpg");
+      margin-top: 0px;
+      padding: 15px;
+  }
+
+
+    .button-prop{
+        text-align: center;
+            border: none;
+            height: 0vh;
+            position: relative;
+            margin-top: 5px;
+    }
+
+    .button{
+        background-color: #3c71c0;
+        border: none;
+        color: rgb(252, 252, 252);
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        margin: 4px 2px;
+        cursor: pointer;
+        border-radius: 16px;
+    }
+
+
+    .todo{
+      background-color: #3c71c0;
+      border: none;
+      color: rgb(252, 252, 252);
+      padding: 10px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      margin: 4px 2px;
+      margin-left: 625px;
+      margin-top: 5px;
+      cursor: pointer;
+      border-radius: 18px;
+    }
+
+    .planhead{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 15%;
+    }
+
+    /* font-size: 50px;
+    font-family: 'Roboto';
+    color: #0c0b0b;
+    text-align: center;
+    margin-top: 25px; */
