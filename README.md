@@ -4,7 +4,7 @@
 
 ![Logo](assets/readmeLogo.png)
 
-Hack'O Pedia is an open-source website designed to cater to the needs of hackers and community enthusiasts. This platform serves as a valuable resource for locating nearby community events and hackathons.
+Hack'O Pedia is an open-source website designed to cater to the needs of hackers and community enthusiasts. This platform serves as a valuable resource for locating nearby community events and hackathons.It is incredibly user-friendly and offers a variety of diverse options.
 
 
 ## Badges
