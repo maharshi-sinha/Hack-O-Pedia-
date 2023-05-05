@@ -2,7 +2,7 @@
 # Hack'O Pedia!
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](assets/readmeLogo.png)
 
 Hack'O Pedia is an open-source website designed to cater to the needs of hackers and community enthusiasts. This platform serves as a valuable resource for locating nearby community events and hackathons.
 
