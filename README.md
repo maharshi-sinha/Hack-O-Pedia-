@@ -18,15 +18,44 @@ See `contributing.md` for ways to get started.
 
 Please adhere to this project's `code of conduct`.
 
+## Browser Support
 
-## Tech Stack
+<ul>
+  <li>Firefox: version 4 and up</li>
+  <li>Chrome: any version</li>
+  <li>Safari: version 5.2 and up</li>
+  <li>Internet Explorer/Edge: version 8 and up</li>
+  <li>Opera: version 9 and up</li>
+</ul>
 
-**Client:** React, Redux, TailwindCSS
 
-**Server:** updating soon...
+## Technology Stack used:
+
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+
+**Frontend**: HTML5, CSS3, JavaScript
+<!-- - **Backend**: Node.js, Express.js -->
+- **IDE**: VS Code
+- **Version Control**: Git and GitHub
+<!-- - **Database**: MongoDb
+- **Hosting**: Heroku, Netlify -->
+
+## Get Started
+
+### Demo <a href="updating soon">🎥</a>
+
+#### Website for this repository : <https://maharshi-sinha.github.io/Hack-O-Pedia-/>
+
+## Resources
+
+- **Git and Github**: [Git and Github for Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk)
+- **Frontend**: [Frontend development for Beginners](https://www.youtube.com/playlist?list=PL9ooVrP1hQOH2k1SANK5rvq_EAgUKTPoK)
+<!-- - **Backend**: [Node.js for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp) -->
 
 
-## Support
+#### Happy?? Star ⭐ this Repo. 🤩
 
-For support, email codewebcommunity@gmail.com or join our Discord channel.
-
+[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://github.com/maharshi-sinha/Hack-O-Pedia-/)
+[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](https://github.com/maharshi-sinha/Hack-O-Pedia-/)
+[![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](https://github.com/maharshi-sinha/Hack-O-Pedia-/)
+[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](https://github.com/maharshi-sinha/Hack-O-Pedia-/)
