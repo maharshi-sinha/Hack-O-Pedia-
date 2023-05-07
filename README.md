@@ -59,3 +59,7 @@ Please adhere to this project's `code of conduct`.
 [![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](https://github.com/maharshi-sinha/Hack-O-Pedia-/)
 [![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](https://github.com/maharshi-sinha/Hack-O-Pedia-/)
 [![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](https://github.com/maharshi-sinha/Hack-O-Pedia-/)
+
+## License
+
+Licensed under the [MIT license](LICENSE).
