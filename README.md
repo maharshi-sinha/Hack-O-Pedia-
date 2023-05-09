@@ -40,6 +40,78 @@ Please adhere to this project's `code of conduct`.
 <!-- - **Database**: MongoDb
 - **Hosting**: Heroku, Netlify -->
 
+### Steps for Contributing
+
+<strong>Frontend</strong>
+
+- Fork and clone the Repo by typing the following commands in the terminal
+
+```
+$ git clone https://github.com/<your-github-username>/QuickLearn.git
+$ cd QuickLearn
+```
+
+<!--
+- Open this folder in your favourite IDE. <br>
+- Run `npm install`.<br>
+- Run `git pull` command to sync with remote repo.<br>
+  <br> -->
+<!-- - Run `npm start` for starting server. -->
+
+- Now to add your resource to website, add an object with keys same as listed in existing objects in the file.<br>
+- Save and commit your code.<br>
+- Push to your fork of the repository , navigate to original repository and make a pull request.<br>
+
+<!-- <strong>Backend</strong>
+
+> **Note**: You must have Nodejs installed
+
+- Fork and clone the Repo by typing the following commands in the terminal
+
+```
+$ git clone https://github.com/DSC-JSS-NOIDA/QuickLearn.git
+$ cd QuickLearn
+``` -->
+
+
+- Make changes to the code(for ex- add an update route)
+- Stage your changes using:
+
+```
+$ git add .
+```
+
+- Commit your changes using:
+
+```
+$ git commit -m "add any comment"
+```
+
+- Push the changes to the forked repository using:
+
+```
+$ git push
+```
+
+- Navigate to the original repository and make a pull request
+```
+Showing Your Remotes
+
+$ git remote
+
+$ git remote -v
+``` 
+Adding Remote Repositories
+```
+git remote add upstream https://github.com/DSC-JSS-NOIDA/QuickLearn.git
+```
+Pulling from Your Remote
+```
+$ git pull upstream main
+```
+
+
+
 ## Get Started
 
 ### Demo <a href="updating soon">🎥</a>
