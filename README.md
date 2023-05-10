@@ -114,7 +114,7 @@ $ git pull upstream main
 
 ## Get Started
 
-### Demo <a href="updating soon">🎥</a>
+### Demo <a href="https://meet.google.com/mqc-sarb-dxp">🎥</a>
 
 #### Website for this repository : <https://maharshi-sinha.github.io/Hack-O-Pedia-/>
 
